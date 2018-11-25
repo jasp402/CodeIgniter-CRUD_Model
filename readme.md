@@ -13,7 +13,8 @@ CodeIgniter
       └── model
           └── CRUD_Model.php
 ```
-2. Entra en `aplication > Confing ` y edita el archivo `autoload.php` solo debes agregar `$autoload['model'] = array('CRUD_model');`
+2. Entra en `aplication > Confing ` y edita el archivo `autoload.php` solo debes agregar  
+ `$autoload['model'] = array('CRUD_model');`
 
 Listo ya puedes usarlo desde tu controlador. 
 
@@ -21,10 +22,11 @@ Listo ya puedes usarlo desde tu controlador.
 ## Table of contents:
 |    Property | Status | Description                                                            |
 |------------:|:--------:|:------------------------------------------------------------------------|
-| __getAll    |:warning:| Es un constructor de 'read' pasado el nombre de la entidad a consultar |
+| [__getAll](#__getAll)    |:warning:| Es un constructor de 'read' pasado el nombre de la entidad a consultar |
 |      create |:+1:| Registra un nuevo elemento en base de datos                         |
 | create_much |        |                                                                 |
-|        read |        |                                        
+|        read |        |  	
+|
 
 ##### Leyenda:
  Status | Description  |
@@ -32,3 +34,31 @@ Listo ya puedes usarlo desde tu controlador.
 :+1:|  Funciona 
 :-1:| No funciona (Bug o falta completar)
 :warning: | Falta desarrollar
+
+
+- :warning:  Falta desarrollar
+
+
+# Documentation 
+Intentare dar el mayor numero de destalles posible sobre cada una de las funciones desarrolladas. no todas estan en funcionameinto muchas de de ellas tan solo son una idea de lo que se quiere hacer mas adelante.
+
+<details>
+<summary>
+<a name="__getAll"></a> :warning: **__getAll($entity, $where, $method)**
+</summary>
+```python
+print("hello world!")
+```
+</details>
+
+<details>
+<summary>
+<a name="__getAll"></a> :warning: **create($entity, $where, $method)**
+</summary>
+```python
+print("hello world!")
+```
+</details>
+
+# :scream:¡INCOMPLETO! :scream:
+
