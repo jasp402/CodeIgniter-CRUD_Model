@@ -26,7 +26,7 @@ Listo ya puedes usarlo desde tu controlador.
 |      create |:+1:| Registra un nuevo elemento en base de datos                         |
 | create_much |        |                                                                 |
 |        read |        |  	
-|
+
 
 ##### Leyenda:
  Status | Description  |
@@ -42,22 +42,31 @@ Listo ya puedes usarlo desde tu controlador.
 # Documentation 
 Intentare dar el mayor numero de destalles posible sobre cada una de las funciones desarrolladas. no todas estan en funcionameinto muchas de de ellas tan solo son una idea de lo que se quiere hacer mas adelante.
 
-<details>
-<summary>
-<a name="__getAll"></a> :warning: **__getAll($entity, $where, $method)**
-</summary>
-```python
-print("hello world!")
-```
-</details>
+### __getAll($entity, $where, $method)
 
 <details>
 <summary>
-<a name="__getAll"></a> :warning: **create($entity, $where, $method)**
+<a name="__getAll"></a> :warning: | Show info.
 </summary>
+  
 ```python
 print("hello world!")
 ```
+
+</details>
+
+---
+
+### create($entity, $where, $method)
+<details>
+<summary>
+<a name="__getAll"></a> :warning: | Show info.
+</summary>
+  
+```python
+print("hello world!")
+```
+
 </details>
 
 # :scream:¡INCOMPLETO! :scream:
