@@ -1,8 +1,8 @@
 # What is CRUD_model?
+**CodeIgniter CRUD_Model**, *Es una simplificación de las funciones crear, leer, editar, deshabilitar, habilitar y eliminar. ciertamente existen varias herramientas mucho más completas. No quería tener algo que no usaba. así que decidí crear mi propia estructura CRUD_model. A este pretendo agregarle funcionalidades según sea la necesidad, así como un sistema de observador basado en eventos, adivinanzas inteligentes de nombres de tablas y eliminación sin problemas*
 
-**CodeIgniter CRUD_Model**, Es una simplificación de las funciones *crear*, *leer*, *editar*, *deshabilitar*, *habilitar* y *eliminar*. cietamente existen varias herramientas mucho más completas. No queria tener algo que no usaba. asi que dicidi creear mi propia estructrua CRUD_model. A este pretendo agregarle funcionalidades según sea la necesidad,  así como un sistema de observador basado en eventos, adivinanzas inteligentes de nombres de tablas y eliminación sin problemas.
+*Este modelo no es precisamente una librería y una aplicación de tercero, por lo que permite fácilmente trabajar control modelos inclusos crear modelos para cada controlador y usar la base del CRUD sin ningún problema*
 
-Este modelo no es precisamente una libreria y una aplicacion de tercero, por lo que permite facilmente trabajar control modelos inclusos crear modelos para cada controlador y usar la base del CRUD sin ningun problema.
 
 ## Installation:
 
